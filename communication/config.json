@@ -1,0 +1,11 @@
+{
+    "modbus": {
+        "port": "/dev/ttyUSB0",
+        "baudRate": 115200,
+        "dataBits": 8,
+        "parity": "N",
+        "stopBits": 1,
+        "timeOut": 1,
+        "retryNum": 2
+    }
+}
